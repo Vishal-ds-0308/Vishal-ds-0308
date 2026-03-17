@@ -143,7 +143,7 @@ TensorFlow • OpenCV • Python
 
 📧 Email: vishal.engineer.0308@gmail.com  
 
-💻 GitHub: https://github.com/YOURUSERNAME  
+💻 GitHub: https://github.com/Vishal-ds-0308  
 
 💼 LinkedIn: (www.linkedin.com/in/vishallds)
 
