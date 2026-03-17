@@ -145,7 +145,7 @@ TensorFlow • OpenCV • Python
 
 💻 GitHub: https://github.com/YOURUSERNAME  
 
-💼 LinkedIn: (Add your LinkedIn profile)
+💼 LinkedIn: (www.linkedin.com/in/vishallds)
 
 ---
 
