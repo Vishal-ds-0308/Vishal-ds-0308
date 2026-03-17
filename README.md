@@ -2,7 +2,7 @@
 <h3 align="center">Data Science & Analytics Enthusiast | Python | SQL | Machine Learning</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+Turning data into insights using Machine Learning and Analytics
 </p>
 
 ---
@@ -12,40 +12,40 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech in **Artificial Intelligence and Data Science**
-- 🐍 Strong in **Python for Data Science**
-- 🗄 Skilled in **SQL & Data Analysis**
+- 🐍 Skilled in **Python for Data Science**
+- 🗄 Experienced with **SQL and Data Analysis**
 - 🤖 Interested in **Machine Learning & Deep Learning**
-- 📊 Love building **data-driven solutions**
-- 📚 Currently learning **advanced ML & analytics**
+- 📊 Passionate about **solving real-world problems using data**
+- 📚 Currently learning **advanced ML and analytics techniques**
 
 ---
 
 # 🛠 Tech Stack
 
-### 👨‍💻 Programming
+### Programming
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,mysql"/>
 </p>
 
-- Python  
-- SQL  
+Python  
+SQL  
 
 ---
 
-### 🤖 Machine Learning
+### Machine Learning
 
-- Supervised Learning
-- Unsupervised Learning
-- Feature Engineering
-- Model Evaluation
-- Classification
-- Regression
-- Imbalanced Learning
+- Supervised Learning  
+- Unsupervised Learning  
+- Classification  
+- Regression  
+- Feature Engineering  
+- Model Evaluation  
+- Imbalanced Learning  
 
 ---
 
-### 🧠 Deep Learning
+### Deep Learning
 
 - Neural Networks  
 - CNN  
@@ -55,7 +55,7 @@
 
 ---
 
-### 📊 Data Analysis
+### Data Analysis
 
 - Pandas  
 - NumPy  
@@ -64,7 +64,7 @@
 
 ---
 
-### 📈 Visualization
+### Data Visualization
 
 - Power BI  
 - Tableau  
@@ -74,7 +74,7 @@
 
 ---
 
-### ⚙ Tools
+### Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
@@ -82,6 +82,7 @@
 
 - Git  
 - GitHub  
+- MySQL  
 - Jupyter Notebook  
 - Google Colab  
 
@@ -89,9 +90,9 @@
 
 # 📌 Featured Projects
 
-### 📊 AI Social Media Engagement Predictor
+### AI Social Media Engagement Predictor
 
-Machine learning pipeline that predicts social media video engagement using visual frame features.
+Machine learning pipeline that predicts social media video engagement using visual features extracted from video frames.
 
 **Tech Used**
 
@@ -99,9 +100,9 @@ Python • Scikit-learn • Pandas • NumPy • OpenCV
 
 ---
 
-### 📈 Social Media Analytics Dashboard
+### Social Media Analytics Dashboard
 
-Interactive Power BI dashboard analyzing engagement metrics like likes, shares and comments.
+Interactive Power BI dashboard analyzing engagement metrics including likes, comments, shares and follower growth.
 
 **Tech Used**
 
@@ -109,7 +110,7 @@ Python • SQL • Power BI • DAX
 
 ---
 
-### 🖼 Automatic Image Caption Generator
+### Automatic Image Caption Generator
 
 Deep learning model generating captions for images using CNN + LSTM architecture.
 
@@ -119,9 +120,9 @@ TensorFlow • Keras • Python
 
 ---
 
-### 🫁 Pneumonia Detection System
+### Pneumonia Detection System
 
-CNN based deep learning system detecting pneumonia from chest X-ray images.
+CNN-based deep learning model detecting pneumonia from chest X-ray images.
 
 **Tech Used**
 
@@ -129,54 +130,12 @@ TensorFlow • OpenCV • Python
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
 # 📚 Currently Learning
 
 - Advanced Machine Learning  
 - Deep Learning Architectures  
-- MLOps  
 - Data Engineering Basics  
+- MLOps Fundamentals  
 
 ---
 
@@ -184,10 +143,10 @@ TensorFlow • OpenCV • Python
 
 📧 Email: vishal.engineer.0308@gmail.com  
 
-💼 LinkedIn: (Add your LinkedIn)  
+💻 GitHub: https://github.com/YOURUSERNAME  
 
-💻 GitHub: https://github.com/YOURUSERNAME
+💼 LinkedIn: (Add your LinkedIn profile)
 
 ---
 
-⭐ From [Vishal L](https://github.com/YOURUSERNAME)
+⭐ Always exploring data, models, and new ideas.
