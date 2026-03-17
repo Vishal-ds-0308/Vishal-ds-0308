@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal L</h1>
-<h3 align="center">Data Science & Analytics Enthusiast | Python | SQL | Machine Learning</h3>
+<h3 align="center">Data Science & Analytics Enthusiast | Python | SQL | Machine Learning | Deep Learning </h3>
 
 <p align="center">
 Turning data into insights using Machine Learning and Analytics
@@ -13,10 +13,10 @@ Turning data into insights using Machine Learning and Analytics
 
 - 🎓 B.Tech in **Artificial Intelligence and Data Science**
 - 🐍 Skilled in **Python for Data Science**
-- 🗄 Experienced with **SQL and Data Analysis**
+- 🗄 Experienced with **Data analytics and model building**
 - 🤖 Interested in **Machine Learning & Deep Learning**
-- 📊 Passionate about **solving real-world problems using data**
-- 📚 Currently learning **advanced ML and analytics techniques**
+- 📊 Passionate about **Solving real-world problems using data**
+- 📚 Currently learning **Generative Artificial intelligence**
 
 ---
 
